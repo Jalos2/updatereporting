@@ -1,3 +1,7 @@
+#Forked from  https://github.com/jonasatgit/updatereporting  at 20211125
+
+
+
 # Original blog and documentation:
 The original blog and documentation can be found [HERE](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/mastering-configuration-manager-patch-compliance-reporting/ba-p/1415088 "Mastering configuration manager patch compliance reporting")
 
